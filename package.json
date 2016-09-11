@@ -1,0 +1,13 @@
+{
+  "name": "MinecraftBot",
+  "version": "0.0.1",
+  "description": "First NodeJS project",
+  "dependencies":
+  {
+    "express": "latest",
+    "minecraft-protocol": "latest",
+    "ejs": "latest",
+    "body-parser": "latest",
+    "socket.io": "latest"
+  }
+}
